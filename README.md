@@ -1,5 +1,7 @@
 # Frontend Challenge
 
+RESOLUCIONES TRABAJADAS: 1024x768 - 1280x720 - 1600x900 - 1920x1080
+
 PASOS A SEGUIR:
   * En el directorio de una carpeta ejecutar: git clone https://github.com/aruuleon/frontend-challenge.git
   * Acceder al Proyecto clonado: cd .\frontend-challenge\
