@@ -1,0 +1,26 @@
+[
+    {
+        "description": "seats",
+        "image": "../../public/img/seats.svg"
+    },
+    {
+        "description": "large suitcase",
+        "image": "../../public/img/luggage.svg"
+    },
+    {
+        "description": "small suitcase",
+        "image": "../../public/img/bag.svg"
+    },
+    {
+        "description": "doors",
+        "image": "../../public/img/seats.svg"
+    },
+    {
+        "description": "Automatic transmission",
+        "image": "../../public/img/transmision.svg"
+    },
+    {
+        "description": "Air Conditioning",
+        "image": "../../public/img/air-conditioning.svg"
+    }
+]

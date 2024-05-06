@@ -1,0 +1,27 @@
+[
+    {
+        "description": "Manual transmission",
+        "property": "transmition",
+        "value": "Manual"
+    },
+    {
+        "description": "5 seats",
+        "property": "seats",
+        "value": "5"
+    },
+    {
+        "description": "Convertibles",
+        "property": "category",
+        "value": "Convertible"
+    },
+    {
+        "description": "Automatic transmission",
+        "property": "transmition",
+        "value": "Automatic"
+    },
+    {
+        "description": "7 seats or more",
+        "property": "seats",
+        "value": "7"
+    }
+]
